@@ -1,0 +1,18 @@
+NET "light[0]" LOC=N16;
+NET "light[1]" LOC=F13;
+NET "light[2]" LOC=R16;
+NET "light[3]" LOC=P15;
+NET "light[4]" LOC=N15;
+NET "light[5]" LOC=G13;
+NET "light[6]" LOC=E14;
+
+NET "an[0]" LOC=D14;
+NET "an[1]" LOC=G14;
+NET "an[2]" LOC=F14;
+NET "an[3]" LOC=E13;
+
+NET "dp" LOC = P16;
+
+NET"clr" LOC = M13;
+
+
